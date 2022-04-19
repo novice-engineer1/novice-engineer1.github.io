@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+  padding: 8% 25%;
+  margin: 0;
+}
+
+/* font-weightの練習 */
+h1{
+  font-weight: bold;
+}
+p{
+  margin: 0;
+  text-align: justify;
+  margin: -30px 20px 10px 10px;
+}
+div{
+  border: dotted 10px tomato;
+  background-color: black;
+  color: red;
+}
+ul{
+  list-style-type: square;
+}
+ol{
+  list-style-type: upper-alpha;
+  list-style-position: inside;
+}
+li{
+  border: solid 1px;
+  margin-bottom: 5px;
+}
