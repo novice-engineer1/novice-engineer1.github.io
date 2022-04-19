@@ -2,7 +2,7 @@
 body{
   padding: 8% 25%;
   margin: 0;
-  background-image: url("image.png");
+  background-image: url(image.png);
 }
 
 /* font-weightの練習 */
